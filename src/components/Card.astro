@@ -25,7 +25,7 @@ const tagsArray = Object.entries(TAGS);
                 <>
                   <Bagde key={tagData.name} class={tagData.class}>
                     <span class="flex flex-row-reverse gap-1">
-                      {tagData.icon} 
+                      <component this={tagData.icon} class="w-6 h-6" />
                       <span class="text-sm">{tagData.name}</span>
                     </span>
                   </Bagde>
