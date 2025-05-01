@@ -1,0 +1,37 @@
+{
+    
+    "projects": [
+      {
+        "name": "Gatopia - Mini red social para adopción de gatos",
+        "img": "/Gatopia.png",
+        "description": "Plataforma interactiva para publicar contenido, gestionar adopciones y donaciones.",
+        "technologies": ["React.js", "Sass", "supabase", "React Suite"],
+        "github": "https://github.com/EJCP3/_Gatopia"
+      },
+      {
+        "name": "Memory of you - App de getion de recuerdos",
+        "img": "/memory.png",
+        "description": "Aplicación para gestionar recuerdos y fotos de seres queridos.",
+        "technologies": ["React.js", "Sass", "GitHub" , "JavaScript"],
+        "github": "https://github.com/EJCP3/Memory-of-you",
+        "demo": "https://memoryofyou00.netlify.app"
+      }
+     
+  
+    ],
+    "skills": [
+      "react.js",
+      "javaScript",
+      "supabase",
+      "html",
+      "css",
+      "scss",
+      "tailwind CSS",
+      "astro",
+      "figma",
+      "github",
+      "daisyUI",
+      "vite"
+    ]
+  }
+  
